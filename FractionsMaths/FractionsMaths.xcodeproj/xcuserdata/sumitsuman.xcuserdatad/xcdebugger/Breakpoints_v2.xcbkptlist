@@ -14,8 +14,8 @@
             filePath = "FractionsMaths/Resources/Operators.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "32"
-            endingLineNumber = "32"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
             landmarkName = "addition(first:second:)"
             landmarkType = "9">
          </BreakpointContent>
@@ -30,8 +30,8 @@
             filePath = "FractionsMaths/Resources/MixedNumber.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "21"
-            endingLineNumber = "21"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
             landmarkName = "improperFraction()"
             landmarkType = "7">
          </BreakpointContent>

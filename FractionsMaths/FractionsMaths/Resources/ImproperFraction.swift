@@ -1,4 +1,3 @@
-
 import Foundation
 
 struct ImproperFraction {
@@ -12,4 +11,5 @@ struct ImproperFraction {
         print("\n  MIXED NUMBER = \(whole) \(num)/\(denominator) \n" )
         return MixedNumber(whole: whole, numerator: num, denominator: denominator)
     }
+    
 }

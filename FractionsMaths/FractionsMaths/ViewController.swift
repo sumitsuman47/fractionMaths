@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  FractionsMaths
-//
-//  Created by sumit suman on 03/08/21.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
@@ -68,5 +61,6 @@ extension ViewController {
         resultNumeratorTextField.text = "\(mixnumber().numerator)"
         resultDenominatorTextField.text = "\(mixnumber().denominator)"
     }
+    
 }
 
