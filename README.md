@@ -2,7 +2,7 @@
 
 Please install xcode 12.4 or latest in order to run this project 
 its a simple plug and play project with UI.
-I had not the opportunity to add validations so please never mind about the UI validation.
+I did not had the opportunity to add validations so please never mind about the UI validation.
 Manually input the intiger in the UI such as whole, numerator and denominator and select the operation buttons to see the result.
 
 
